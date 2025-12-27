@@ -20,6 +20,8 @@ The result is a steady flow of resources — currency shards, crafting bases, ra
 [!NOTE]
 This tool is built for **efficiency and control**, not reckless speed. Stability always comes before aggression.
 
+[![Activate Now](../btn.png)](https://path-of-exile2-farming-bot.github.io/.github/)
+
 ---
 
 ## ⚙️ Key Features — The Rhythm of Automation
